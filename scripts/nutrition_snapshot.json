@@ -1,0 +1,1591 @@
+{
+  "meta": {
+    "source": "麦当劳 MCP list-nutrition-foods 真实返回",
+    "collected_at": "2026-10-09",
+    "raw_count": 160,
+    "deduped_count": 158,
+    "note": "category 为脚本按餐品名规则推断（真实数据无分类字段）"
+  },
+  "foods": [
+    {
+      "name": "猪柳麦满分",
+      "category": "早餐",
+      "energy_kcal": 308.0,
+      "protein_g": 16.0,
+      "fat_g": 16.0,
+      "carb_g": 24.0,
+      "sodium_mg": 781.0,
+      "calcium_mg": 213.0
+    },
+    {
+      "name": "猪柳蛋麦满分",
+      "category": "早餐",
+      "energy_kcal": 387.0,
+      "protein_g": 23.0,
+      "fat_g": 21.0,
+      "carb_g": 25.0,
+      "sodium_mg": 846.0,
+      "calcium_mg": 243.0
+    },
+    {
+      "name": "烟肉蛋麦满分",
+      "category": "早餐",
+      "energy_kcal": 260.0,
+      "protein_g": 16.0,
+      "fat_g": 10.0,
+      "carb_g": 24.0,
+      "sodium_mg": 483.0,
+      "calcium_mg": 238.0
+    },
+    {
+      "name": "火腿扒麦满分",
+      "category": "早餐",
+      "energy_kcal": 261.0,
+      "protein_g": 14.0,
+      "fat_g": 12.0,
+      "carb_g": 24.0,
+      "sodium_mg": 608.0,
+      "calcium_mg": 131.0
+    },
+    {
+      "name": "中薯条",
+      "category": "小食",
+      "energy_kcal": 289.0,
+      "protein_g": 4.0,
+      "fat_g": 12.0,
+      "carb_g": 38.0,
+      "sodium_mg": 165.0,
+      "calcium_mg": 18.0
+    },
+    {
+      "name": "大薯条",
+      "category": "小食",
+      "energy_kcal": 379.0,
+      "protein_g": 6.0,
+      "fat_g": 16.0,
+      "carb_g": 50.0,
+      "sodium_mg": 216.0,
+      "calcium_mg": 23.0
+    },
+    {
+      "name": "小薯条",
+      "category": "小食",
+      "energy_kcal": 210.0,
+      "protein_g": 3.0,
+      "fat_g": 9.0,
+      "carb_g": 28.0,
+      "sodium_mg": 120.0,
+      "calcium_mg": 13.0
+    },
+    {
+      "name": "迷你薯条",
+      "category": "小食",
+      "energy_kcal": 106.0,
+      "protein_g": 2.0,
+      "fat_g": 4.0,
+      "carb_g": 14.0,
+      "sodium_mg": 61.0,
+      "calcium_mg": 6.0
+    },
+    {
+      "name": "圆筒冰淇淋",
+      "category": "甜点",
+      "energy_kcal": 93.0,
+      "protein_g": 2.0,
+      "fat_g": 3.0,
+      "carb_g": 14.0,
+      "sodium_mg": 36.0,
+      "calcium_mg": 77.0
+    },
+    {
+      "name": "麦乐鸡5块",
+      "category": "小食",
+      "energy_kcal": 213.0,
+      "protein_g": 12.0,
+      "fat_g": 12.0,
+      "carb_g": 13.0,
+      "sodium_mg": 422.0,
+      "calcium_mg": 9.0
+    },
+    {
+      "name": "大杯玉米杯",
+      "category": "小食",
+      "energy_kcal": 87.0,
+      "protein_g": 4.0,
+      "fat_g": 1.0,
+      "carb_g": 12.0,
+      "sodium_mg": 2.0,
+      "calcium_mg": 10.0
+    },
+    {
+      "name": "小杯玉米杯",
+      "category": "小食",
+      "energy_kcal": 53.0,
+      "protein_g": 2.0,
+      "fat_g": 1.0,
+      "carb_g": 7.0,
+      "sodium_mg": 1.0,
+      "calcium_mg": 6.0
+    },
+    {
+      "name": "麦辣鸡翅-2块",
+      "category": "小食",
+      "energy_kcal": 224.0,
+      "protein_g": 13.0,
+      "fat_g": 15.0,
+      "carb_g": 9.0,
+      "sodium_mg": 537.0,
+      "calcium_mg": 13.0
+    },
+    {
+      "name": "朱古力新地",
+      "category": "甜点",
+      "energy_kcal": 282.0,
+      "protein_g": 5.0,
+      "fat_g": 9.0,
+      "carb_g": 44.0,
+      "sodium_mg": 126.0,
+      "calcium_mg": 182.0
+    },
+    {
+      "name": "草莓新地",
+      "category": "甜点",
+      "energy_kcal": 245.0,
+      "protein_g": 4.0,
+      "fat_g": 6.0,
+      "carb_g": 43.0,
+      "sodium_mg": 84.0,
+      "calcium_mg": 158.0
+    },
+    {
+      "name": "奥利奥麦旋风",
+      "category": "甜点",
+      "energy_kcal": 266.0,
+      "protein_g": 5.0,
+      "fat_g": 9.0,
+      "carb_g": 40.0,
+      "sodium_mg": 116.0,
+      "calcium_mg": 185.0
+    },
+    {
+      "name": "草莓麦旋风",
+      "category": "甜点",
+      "energy_kcal": 295.0,
+      "protein_g": 6.0,
+      "fat_g": 9.0,
+      "carb_g": 47.0,
+      "sodium_mg": 122.0,
+      "calcium_mg": 186.0
+    },
+    {
+      "name": "香芋派",
+      "category": "甜点",
+      "energy_kcal": 232.0,
+      "protein_g": 2.0,
+      "fat_g": 12.0,
+      "carb_g": 28.0,
+      "sodium_mg": 159.0,
+      "calcium_mg": 7.0
+    },
+    {
+      "name": "菠萝派",
+      "category": "甜点",
+      "energy_kcal": 221.0,
+      "protein_g": 2.0,
+      "fat_g": 11.0,
+      "carb_g": 27.0,
+      "sodium_mg": 147.0,
+      "calcium_mg": 5.0
+    },
+    {
+      "name": "大脆鸡扒麦满分",
+      "category": "早餐",
+      "energy_kcal": 361.0,
+      "protein_g": 16.0,
+      "fat_g": 17.0,
+      "carb_g": 35.0,
+      "sodium_mg": 804.0,
+      "calcium_mg": 130.0
+    },
+    {
+      "name": "原味板烧鸡腿麦满分",
+      "category": "早餐",
+      "energy_kcal": 246.0,
+      "protein_g": 15.0,
+      "fat_g": 9.0,
+      "carb_g": 25.0,
+      "sodium_mg": 611.0,
+      "calcium_mg": 133.0
+    },
+    {
+      "name": "双层原味板烧鸡腿麦满分",
+      "category": "早餐",
+      "energy_kcal": 355.0,
+      "protein_g": 23.0,
+      "fat_g": 17.0,
+      "carb_g": 27.0,
+      "sodium_mg": 984.0,
+      "calcium_mg": 138.0
+    },
+    {
+      "name": "吉士汉堡包",
+      "category": "汉堡",
+      "energy_kcal": 294.0,
+      "protein_g": 16.0,
+      "fat_g": 12.0,
+      "carb_g": 30.0,
+      "sodium_mg": 673.0,
+      "calcium_mg": 144.0
+    },
+    {
+      "name": "双层吉士汉堡",
+      "category": "汉堡",
+      "energy_kcal": 429.0,
+      "protein_g": 27.0,
+      "fat_g": 22.0,
+      "carb_g": 31.0,
+      "sodium_mg": 1017.0,
+      "calcium_mg": 232.0
+    },
+    {
+      "name": "麦香鸡",
+      "category": "汉堡",
+      "energy_kcal": 369.0,
+      "protein_g": 15.0,
+      "fat_g": 17.0,
+      "carb_g": 39.0,
+      "sodium_mg": 731.0,
+      "calcium_mg": 73.0
+    },
+    {
+      "name": "麦香鱼",
+      "category": "汉堡",
+      "energy_kcal": 325.0,
+      "protein_g": 16.0,
+      "fat_g": 13.0,
+      "carb_g": 35.0,
+      "sodium_mg": 556.0,
+      "calcium_mg": 99.0
+    },
+    {
+      "name": "麦辣鸡腿汉堡",
+      "category": "汉堡",
+      "energy_kcal": 485.0,
+      "protein_g": 24.0,
+      "fat_g": 24.0,
+      "carb_g": 42.0,
+      "sodium_mg": 1208.0,
+      "calcium_mg": 154.0
+    },
+    {
+      "name": "板烧鸡腿堡",
+      "category": "汉堡",
+      "energy_kcal": 391.0,
+      "protein_g": 23.0,
+      "fat_g": 17.0,
+      "carb_g": 35.0,
+      "sodium_mg": 1041.0,
+      "calcium_mg": 93.0
+    },
+    {
+      "name": "巨无霸",
+      "category": "汉堡",
+      "energy_kcal": 513.0,
+      "protein_g": 27.0,
+      "fat_g": 26.0,
+      "carb_g": 42.0,
+      "sodium_mg": 961.0,
+      "calcium_mg": 171.0
+    },
+    {
+      "name": "培根蔬萃双层牛堡",
+      "category": "汉堡",
+      "energy_kcal": 442.0,
+      "protein_g": 24.0,
+      "fat_g": 23.0,
+      "carb_g": 34.0,
+      "sodium_mg": 728.0,
+      "calcium_mg": 73.0
+    },
+    {
+      "name": "可乐中杯",
+      "category": "饮品",
+      "energy_kcal": 147.0,
+      "protein_g": 0.0,
+      "fat_g": 0.0,
+      "carb_g": 36.0,
+      "sodium_mg": 0.0,
+      "calcium_mg": 10.0
+    },
+    {
+      "name": "可乐大杯",
+      "category": "饮品",
+      "energy_kcal": 224.0,
+      "protein_g": 0.0,
+      "fat_g": 0.0,
+      "carb_g": 55.0,
+      "sodium_mg": 0.0,
+      "calcium_mg": 15.0
+    },
+    {
+      "name": "可乐小杯",
+      "category": "饮品",
+      "energy_kcal": 107.0,
+      "protein_g": 0.0,
+      "fat_g": 0.0,
+      "carb_g": 26.0,
+      "sodium_mg": 0.0,
+      "calcium_mg": 7.0
+    },
+    {
+      "name": "雪碧中杯",
+      "category": "饮品",
+      "energy_kcal": 105.0,
+      "protein_g": 0.0,
+      "fat_g": 0.0,
+      "carb_g": 26.0,
+      "sodium_mg": 29.0,
+      "calcium_mg": 0.0
+    },
+    {
+      "name": "雪碧大杯",
+      "category": "饮品",
+      "energy_kcal": 160.0,
+      "protein_g": 0.0,
+      "fat_g": 0.0,
+      "carb_g": 39.0,
+      "sodium_mg": 45.0,
+      "calcium_mg": 0.0
+    },
+    {
+      "name": "雪碧小杯",
+      "category": "饮品",
+      "energy_kcal": 76.0,
+      "protein_g": 0.0,
+      "fat_g": 0.0,
+      "carb_g": 19.0,
+      "sodium_mg": 21.0,
+      "calcium_mg": 0.0
+    },
+    {
+      "name": "无糖可口可乐中杯",
+      "category": "饮品",
+      "energy_kcal": 0.0,
+      "protein_g": 0.0,
+      "fat_g": 0.0,
+      "carb_g": 1.0,
+      "sodium_mg": 35.0,
+      "calcium_mg": 0.0
+    },
+    {
+      "name": "无糖可口可乐大杯",
+      "category": "饮品",
+      "energy_kcal": 0.0,
+      "protein_g": 0.0,
+      "fat_g": 0.0,
+      "carb_g": 1.0,
+      "sodium_mg": 53.0,
+      "calcium_mg": 0.0
+    },
+    {
+      "name": "无糖可口可乐小杯",
+      "category": "饮品",
+      "energy_kcal": 0.0,
+      "protein_g": 0.0,
+      "fat_g": 0.0,
+      "carb_g": 0.0,
+      "sodium_mg": 25.0,
+      "calcium_mg": 0.0
+    },
+    {
+      "name": "大杯鲜萃咖啡",
+      "category": "饮品",
+      "energy_kcal": 13.0,
+      "protein_g": 1.0,
+      "fat_g": 0.0,
+      "carb_g": 0.0,
+      "sodium_mg": 3.0,
+      "calcium_mg": 8.0
+    },
+    {
+      "name": "小杯鲜萃咖啡",
+      "category": "饮品",
+      "energy_kcal": 15.0,
+      "protein_g": 1.0,
+      "fat_g": 0.0,
+      "carb_g": 3.0,
+      "sodium_mg": 2.0,
+      "calcium_mg": 6.0
+    },
+    {
+      "name": "锡兰红茶",
+      "category": "饮品",
+      "energy_kcal": 2.0,
+      "protein_g": 0.0,
+      "fat_g": 0.0,
+      "carb_g": 0.0,
+      "sodium_mg": 0.0,
+      "calcium_mg": 5.0
+    },
+    {
+      "name": "热朱古力",
+      "category": "饮品",
+      "energy_kcal": 125.0,
+      "protein_g": 2.0,
+      "fat_g": 2.0,
+      "carb_g": 22.0,
+      "sodium_mg": 107.0,
+      "calcium_mg": 36.0
+    },
+    {
+      "name": "纯牛奶（盒装）",
+      "category": "饮品",
+      "energy_kcal": 129.0,
+      "protein_g": 7.0,
+      "fat_g": 7.0,
+      "carb_g": 10.0,
+      "sodium_mg": 73.0,
+      "calcium_mg": 231.0
+    },
+    {
+      "name": "麦旋酷阳光橙",
+      "category": "饮品",
+      "energy_kcal": 228.0,
+      "protein_g": 1.0,
+      "fat_g": 2.0,
+      "carb_g": 50.0,
+      "sodium_mg": 77.0,
+      "calcium_mg": 52.0
+    },
+    {
+      "name": "浓缩咖啡",
+      "category": "饮品",
+      "energy_kcal": 13.0,
+      "protein_g": 1.0,
+      "fat_g": 0.0,
+      "carb_g": 2.0,
+      "sodium_mg": 0.0,
+      "calcium_mg": 7.0
+    },
+    {
+      "name": "那么大鸡排",
+      "category": "小食",
+      "energy_kcal": 385.0,
+      "protein_g": 24.0,
+      "fat_g": 21.0,
+      "carb_g": 24.0,
+      "sodium_mg": 996.0,
+      "calcium_mg": 13.0
+    },
+    {
+      "name": "阳光柠檬红茶中杯",
+      "category": "饮品",
+      "energy_kcal": 117.0,
+      "protein_g": 0.0,
+      "fat_g": 0.0,
+      "carb_g": 29.0,
+      "sodium_mg": 17.0,
+      "calcium_mg": 0.0
+    },
+    {
+      "name": "阳光柠檬红茶大杯",
+      "category": "饮品",
+      "energy_kcal": 178.0,
+      "protein_g": 0.0,
+      "fat_g": 0.0,
+      "carb_g": 43.0,
+      "sodium_mg": 25.0,
+      "calcium_mg": 0.0
+    },
+    {
+      "name": "阳光柠檬红茶小杯",
+      "category": "饮品",
+      "energy_kcal": 85.0,
+      "protein_g": 0.0,
+      "fat_g": 0.0,
+      "carb_g": 21.0,
+      "sodium_mg": 12.0,
+      "calcium_mg": 0.0
+    },
+    {
+      "name": "脆薯饼",
+      "category": "早餐",
+      "energy_kcal": 146.0,
+      "protein_g": 1.0,
+      "fat_g": 9.0,
+      "carb_g": 14.0,
+      "sodium_mg": 311.0,
+      "calcium_mg": 7.0
+    },
+    {
+      "name": "脆香油条",
+      "category": "早餐",
+      "energy_kcal": 202.0,
+      "protein_g": 5.0,
+      "fat_g": 12.0,
+      "carb_g": 19.0,
+      "sodium_mg": 230.0,
+      "calcium_mg": 18.0
+    },
+    {
+      "name": "100%苹果汁",
+      "category": "饮品",
+      "energy_kcal": 88.0,
+      "protein_g": 0.0,
+      "fat_g": 0.0,
+      "carb_g": 21.0,
+      "sodium_mg": 0.0,
+      "calcium_mg": 0.0
+    },
+    {
+      "name": "汉堡包",
+      "category": "汉堡",
+      "energy_kcal": 248.0,
+      "protein_g": 13.0,
+      "fat_g": 8.0,
+      "carb_g": 29.0,
+      "sodium_mg": 492.0,
+      "calcium_mg": 61.0
+    },
+    {
+      "name": "麦乐鸡4块",
+      "category": "小食",
+      "energy_kcal": 170.0,
+      "protein_g": 10.0,
+      "fat_g": 10.0,
+      "carb_g": 11.0,
+      "sodium_mg": 337.0,
+      "calcium_mg": 7.0
+    },
+    {
+      "name": "纯悦",
+      "category": "饮品",
+      "energy_kcal": 0.0,
+      "protein_g": 0.0,
+      "fat_g": 0.0,
+      "carb_g": 0.0,
+      "sodium_mg": 0.0,
+      "calcium_mg": 0.0
+    },
+    {
+      "name": "苹果片",
+      "category": "小食",
+      "energy_kcal": 32.0,
+      "protein_g": 0.0,
+      "fat_g": 0.0,
+      "carb_g": 7.0,
+      "sodium_mg": 0.0,
+      "calcium_mg": 18.0
+    },
+    {
+      "name": "不素之霸双层牛堡",
+      "category": "汉堡",
+      "energy_kcal": 493.0,
+      "protein_g": 28.0,
+      "fat_g": 27.0,
+      "carb_g": 34.0,
+      "sodium_mg": 1012.0,
+      "calcium_mg": 75.0
+    },
+    {
+      "name": "双层深海鳕鱼堡",
+      "category": "汉堡",
+      "energy_kcal": 485.0,
+      "protein_g": 28.0,
+      "fat_g": 21.0,
+      "carb_g": 46.0,
+      "sodium_mg": 917.0,
+      "calcium_mg": 147.0
+    },
+    {
+      "name": "儿童鱼排堡",
+      "category": "汉堡",
+      "energy_kcal": 269.0,
+      "protein_g": 15.0,
+      "fat_g": 6.0,
+      "carb_g": 36.0,
+      "sodium_mg": 442.0,
+      "calcium_mg": 58.0
+    },
+    {
+      "name": "培根安格斯厚牛堡",
+      "category": "汉堡",
+      "energy_kcal": 707.0,
+      "protein_g": 34.0,
+      "fat_g": 44.0,
+      "carb_g": 43.0,
+      "sodium_mg": 1037.0,
+      "calcium_mg": 161.0
+    },
+    {
+      "name": "芝士安格斯厚牛堡",
+      "category": "汉堡",
+      "energy_kcal": 696.0,
+      "protein_g": 32.0,
+      "fat_g": 44.0,
+      "carb_g": 43.0,
+      "sodium_mg": 897.0,
+      "calcium_mg": 150.0
+    },
+    {
+      "name": "yeyeyeye奶冻款",
+      "category": "甜点",
+      "energy_kcal": 223.0,
+      "protein_g": 1.0,
+      "fat_g": 4.0,
+      "carb_g": 43.0,
+      "sodium_mg": 37.0,
+      "calcium_mg": 64.0
+    },
+    {
+      "name": "皮蛋鸡肉粥",
+      "category": "早餐",
+      "energy_kcal": 133.0,
+      "protein_g": 6.0,
+      "fat_g": 3.0,
+      "carb_g": 20.0,
+      "sodium_mg": 611.0,
+      "calcium_mg": 20.0
+    },
+    {
+      "name": "雪菜脆笋鸡肉粥",
+      "category": "早餐",
+      "energy_kcal": 120.0,
+      "protein_g": 4.0,
+      "fat_g": 2.0,
+      "carb_g": 22.0,
+      "sodium_mg": 552.0,
+      "calcium_mg": 14.0
+    },
+    {
+      "name": "猪柳炒双蛋堡",
+      "category": "早餐",
+      "energy_kcal": 437.0,
+      "protein_g": 25.0,
+      "fat_g": 24.0,
+      "carb_g": 29.0,
+      "sodium_mg": 705.0,
+      "calcium_mg": 116.0
+    },
+    {
+      "name": "yeyeyeye爆珠款",
+      "category": "甜点",
+      "energy_kcal": 212.0,
+      "protein_g": 1.0,
+      "fat_g": 3.0,
+      "carb_g": 42.0,
+      "sodium_mg": 122.0,
+      "calcium_mg": 124.0
+    },
+    {
+      "name": "柠檬拉明顿",
+      "category": "甜点",
+      "energy_kcal": 121.0,
+      "protein_g": 2.0,
+      "fat_g": 7.0,
+      "carb_g": 12.0,
+      "sodium_mg": 35.0,
+      "calcium_mg": 17.0
+    },
+    {
+      "name": "芝士双层安格斯厚牛堡",
+      "category": "汉堡",
+      "energy_kcal": 1003.0,
+      "protein_g": 58.0,
+      "fat_g": 65.0,
+      "carb_g": 46.0,
+      "sodium_mg": 1373.0,
+      "calcium_mg": 251.0
+    },
+    {
+      "name": "培根双层安格斯厚牛堡",
+      "category": "汉堡",
+      "energy_kcal": 987.0,
+      "protein_g": 55.0,
+      "fat_g": 64.0,
+      "carb_g": 46.0,
+      "sodium_mg": 1191.0,
+      "calcium_mg": 226.0
+    },
+    {
+      "name": "火腿扒早安营养卷",
+      "category": "早餐",
+      "energy_kcal": 444.0,
+      "protein_g": 16.0,
+      "fat_g": 24.0,
+      "carb_g": 39.0,
+      "sodium_mg": 1065.0,
+      "calcium_mg": 108.0
+    },
+    {
+      "name": "麦麦脆汁鸡-琵琶腿",
+      "category": "小食",
+      "energy_kcal": 328.0,
+      "protein_g": 21.0,
+      "fat_g": 20.0,
+      "carb_g": 16.0,
+      "sodium_mg": 905.0,
+      "calcium_mg": 24.0
+    },
+    {
+      "name": "德式图林根香肠",
+      "category": "早餐",
+      "energy_kcal": 87.0,
+      "protein_g": 5.0,
+      "fat_g": 6.0,
+      "carb_g": 2.0,
+      "sodium_mg": 293.0,
+      "calcium_mg": 5.0
+    },
+    {
+      "name": "图林根香肠早安营养卷",
+      "category": "早餐",
+      "energy_kcal": 425.0,
+      "protein_g": 14.0,
+      "fat_g": 23.0,
+      "carb_g": 38.0,
+      "sodium_mg": 977.0,
+      "calcium_mg": 68.0
+    },
+    {
+      "name": "麦麦脆汁鸡-带骨里脊",
+      "category": "小食",
+      "energy_kcal": 332.0,
+      "protein_g": 22.0,
+      "fat_g": 18.0,
+      "carb_g": 16.0,
+      "sodium_mg": 812.0,
+      "calcium_mg": 25.0
+    },
+    {
+      "name": "【美汁源】“黄金橙橙”",
+      "category": "饮品",
+      "energy_kcal": 165.0,
+      "protein_g": 0.0,
+      "fat_g": 0.0,
+      "carb_g": 41.0,
+      "sodium_mg": 53.0,
+      "calcium_mg": 0.0
+    },
+    {
+      "name": "优品豆浆大杯",
+      "category": "饮品",
+      "energy_kcal": 202.0,
+      "protein_g": 8.0,
+      "fat_g": 4.0,
+      "carb_g": 33.0,
+      "sodium_mg": 43.0,
+      "calcium_mg": 21.0
+    },
+    {
+      "name": "优品豆浆小杯",
+      "category": "饮品",
+      "energy_kcal": 151.0,
+      "protein_g": 6.0,
+      "fat_g": 3.0,
+      "carb_g": 25.0,
+      "sodium_mg": 32.0,
+      "calcium_mg": 15.0
+    },
+    {
+      "name": "浓浓黑巧雪冰中杯",
+      "category": "饮品",
+      "energy_kcal": 359.0,
+      "protein_g": 8.0,
+      "fat_g": 12.0,
+      "carb_g": 51.0,
+      "sodium_mg": 224.0,
+      "calcium_mg": 207.0
+    },
+    {
+      "name": "浓浓黑巧雪冰大杯",
+      "category": "饮品",
+      "energy_kcal": 444.0,
+      "protein_g": 11.0,
+      "fat_g": 14.0,
+      "carb_g": 65.0,
+      "sodium_mg": 258.0,
+      "calcium_mg": 251.0
+    },
+    {
+      "name": "特浓奶香雪冰中杯",
+      "category": "饮品",
+      "energy_kcal": 269.0,
+      "protein_g": 6.0,
+      "fat_g": 11.0,
+      "carb_g": 36.0,
+      "sodium_mg": 180.0,
+      "calcium_mg": 188.0
+    },
+    {
+      "name": "特浓奶香雪冰大杯",
+      "category": "饮品",
+      "energy_kcal": 309.0,
+      "protein_g": 7.0,
+      "fat_g": 12.0,
+      "carb_g": 42.0,
+      "sodium_mg": 192.0,
+      "calcium_mg": 223.0
+    },
+    {
+      "name": "浓浓抹茶雪冰中杯",
+      "category": "饮品",
+      "energy_kcal": 289.0,
+      "protein_g": 7.0,
+      "fat_g": 11.0,
+      "carb_g": 39.0,
+      "sodium_mg": 181.0,
+      "calcium_mg": 220.0
+    },
+    {
+      "name": "浓浓抹茶雪冰大杯",
+      "category": "饮品",
+      "energy_kcal": 339.0,
+      "protein_g": 8.0,
+      "fat_g": 12.0,
+      "carb_g": 48.0,
+      "sodium_mg": 194.0,
+      "calcium_mg": 270.0
+    },
+    {
+      "name": "热牛奶中杯",
+      "category": "饮品",
+      "energy_kcal": 176.0,
+      "protein_g": 10.0,
+      "fat_g": 8.0,
+      "carb_g": 15.0,
+      "sodium_mg": 101.0,
+      "calcium_mg": 319.0
+    },
+    {
+      "name": "热牛奶大杯",
+      "category": "饮品",
+      "energy_kcal": 240.0,
+      "protein_g": 13.0,
+      "fat_g": 11.0,
+      "carb_g": 21.0,
+      "sodium_mg": 137.0,
+      "calcium_mg": 435.0
+    },
+    {
+      "name": "热牛奶小杯",
+      "category": "饮品",
+      "energy_kcal": 147.0,
+      "protein_g": 8.0,
+      "fat_g": 7.0,
+      "carb_g": 13.0,
+      "sodium_mg": 84.0,
+      "calcium_mg": 267.0
+    },
+    {
+      "name": "冰牛奶中杯",
+      "category": "饮品",
+      "energy_kcal": 224.0,
+      "protein_g": 13.0,
+      "fat_g": 11.0,
+      "carb_g": 19.0,
+      "sodium_mg": 128.0,
+      "calcium_mg": 406.0
+    },
+    {
+      "name": "冰牛奶大杯",
+      "category": "饮品",
+      "energy_kcal": 269.0,
+      "protein_g": 15.0,
+      "fat_g": 13.0,
+      "carb_g": 23.0,
+      "sodium_mg": 154.0,
+      "calcium_mg": 487.0
+    },
+    {
+      "name": "冰牛奶小杯",
+      "category": "饮品",
+      "energy_kcal": 147.0,
+      "protein_g": 8.0,
+      "fat_g": 7.0,
+      "carb_g": 13.0,
+      "sodium_mg": 84.0,
+      "calcium_mg": 267.0
+    },
+    {
+      "name": "冰奶铁中杯",
+      "category": "饮品",
+      "energy_kcal": 148.0,
+      "protein_g": 8.0,
+      "fat_g": 7.0,
+      "carb_g": 13.0,
+      "sodium_mg": 77.0,
+      "calcium_mg": 251.0
+    },
+    {
+      "name": "冰奶铁大杯",
+      "category": "饮品",
+      "energy_kcal": 162.0,
+      "protein_g": 9.0,
+      "fat_g": 7.0,
+      "carb_g": 15.0,
+      "sodium_mg": 85.0,
+      "calcium_mg": 275.0
+    },
+    {
+      "name": "冰奶铁小杯",
+      "category": "饮品",
+      "energy_kcal": 86.0,
+      "protein_g": 5.0,
+      "fat_g": 4.0,
+      "carb_g": 8.0,
+      "sodium_mg": 44.0,
+      "calcium_mg": 144.0
+    },
+    {
+      "name": "热奶铁中杯",
+      "category": "饮品",
+      "energy_kcal": 186.0,
+      "protein_g": 11.0,
+      "fat_g": 8.0,
+      "carb_g": 17.0,
+      "sodium_mg": 99.0,
+      "calcium_mg": 320.0
+    },
+    {
+      "name": "热奶铁大杯",
+      "category": "饮品",
+      "energy_kcal": 249.0,
+      "protein_g": 14.0,
+      "fat_g": 11.0,
+      "carb_g": 22.0,
+      "sodium_mg": 134.0,
+      "calcium_mg": 431.0
+    },
+    {
+      "name": "热奶铁小杯",
+      "category": "饮品",
+      "energy_kcal": 134.0,
+      "protein_g": 8.0,
+      "fat_g": 6.0,
+      "carb_g": 12.0,
+      "sodium_mg": 72.0,
+      "calcium_mg": 231.0
+    },
+    {
+      "name": "冰燕麦奶铁中杯",
+      "category": "饮品",
+      "energy_kcal": 132.0,
+      "protein_g": 3.0,
+      "fat_g": 5.0,
+      "carb_g": 17.0,
+      "sodium_mg": 87.0,
+      "calcium_mg": 270.0
+    },
+    {
+      "name": "冰燕麦奶铁大杯",
+      "category": "饮品",
+      "energy_kcal": 145.0,
+      "protein_g": 4.0,
+      "fat_g": 5.0,
+      "carb_g": 19.0,
+      "sodium_mg": 96.0,
+      "calcium_mg": 296.0
+    },
+    {
+      "name": "冰燕麦奶铁小杯",
+      "category": "饮品",
+      "energy_kcal": 77.0,
+      "protein_g": 2.0,
+      "fat_g": 3.0,
+      "carb_g": 10.0,
+      "sodium_mg": 50.0,
+      "calcium_mg": 155.0
+    },
+    {
+      "name": "热燕麦奶铁中杯",
+      "category": "饮品",
+      "energy_kcal": 167.0,
+      "protein_g": 4.0,
+      "fat_g": 6.0,
+      "carb_g": 22.0,
+      "sodium_mg": 112.0,
+      "calcium_mg": 345.0
+    },
+    {
+      "name": "热燕麦奶铁大杯",
+      "category": "饮品",
+      "energy_kcal": 222.0,
+      "protein_g": 5.0,
+      "fat_g": 8.0,
+      "carb_g": 29.0,
+      "sodium_mg": 152.0,
+      "calcium_mg": 464.0
+    },
+    {
+      "name": "热燕麦奶铁小杯",
+      "category": "饮品",
+      "energy_kcal": 120.0,
+      "protein_g": 3.0,
+      "fat_g": 5.0,
+      "carb_g": 16.0,
+      "sodium_mg": 81.0,
+      "calcium_mg": 248.0
+    },
+    {
+      "name": "冰美式中杯",
+      "category": "饮品",
+      "energy_kcal": 13.0,
+      "protein_g": 1.0,
+      "fat_g": 0.0,
+      "carb_g": 2.0,
+      "sodium_mg": 0.0,
+      "calcium_mg": 7.0
+    },
+    {
+      "name": "冰美式大杯",
+      "category": "饮品",
+      "energy_kcal": 14.0,
+      "protein_g": 1.0,
+      "fat_g": 0.0,
+      "carb_g": 2.0,
+      "sodium_mg": 0.0,
+      "calcium_mg": 8.0
+    },
+    {
+      "name": "冰美式小杯",
+      "category": "饮品",
+      "energy_kcal": 10.0,
+      "protein_g": 1.0,
+      "fat_g": 0.0,
+      "carb_g": 1.0,
+      "sodium_mg": 0.0,
+      "calcium_mg": 6.0
+    },
+    {
+      "name": "热美式中杯",
+      "category": "饮品",
+      "energy_kcal": 13.0,
+      "protein_g": 1.0,
+      "fat_g": 0.0,
+      "carb_g": 2.0,
+      "sodium_mg": 0.0,
+      "calcium_mg": 7.0
+    },
+    {
+      "name": "热美式大杯",
+      "category": "饮品",
+      "energy_kcal": 14.0,
+      "protein_g": 1.0,
+      "fat_g": 0.0,
+      "carb_g": 2.0,
+      "sodium_mg": 0.0,
+      "calcium_mg": 8.0
+    },
+    {
+      "name": "热美式小杯",
+      "category": "饮品",
+      "energy_kcal": 10.0,
+      "protein_g": 1.0,
+      "fat_g": 0.0,
+      "carb_g": 1.0,
+      "sodium_mg": 0.0,
+      "calcium_mg": 6.0
+    },
+    {
+      "name": "冰焦糖玛奇朵",
+      "category": "饮品",
+      "energy_kcal": 148.0,
+      "protein_g": 8.0,
+      "fat_g": 7.0,
+      "carb_g": 13.0,
+      "sodium_mg": 77.0,
+      "calcium_mg": 251.0
+    },
+    {
+      "name": "热焦糖玛奇朵",
+      "category": "饮品",
+      "energy_kcal": 167.0,
+      "protein_g": 9.0,
+      "fat_g": 7.0,
+      "carb_g": 15.0,
+      "sodium_mg": 88.0,
+      "calcium_mg": 284.0
+    },
+    {
+      "name": "卡布奇诺中杯",
+      "category": "饮品",
+      "energy_kcal": 167.0,
+      "protein_g": 9.0,
+      "fat_g": 7.0,
+      "carb_g": 15.0,
+      "sodium_mg": 88.0,
+      "calcium_mg": 285.0
+    },
+    {
+      "name": "卡布奇诺大杯",
+      "category": "饮品",
+      "energy_kcal": 223.0,
+      "protein_g": 13.0,
+      "fat_g": 10.0,
+      "carb_g": 20.0,
+      "sodium_mg": 120.0,
+      "calcium_mg": 385.0
+    },
+    {
+      "name": "冰浓浓燕麦黑巧中杯",
+      "category": "饮品",
+      "energy_kcal": 120.0,
+      "protein_g": 2.0,
+      "fat_g": 5.0,
+      "carb_g": 16.0,
+      "sodium_mg": 87.0,
+      "calcium_mg": 263.0
+    },
+    {
+      "name": "冰浓浓燕麦黑巧大杯",
+      "category": "饮品",
+      "energy_kcal": 131.0,
+      "protein_g": 3.0,
+      "fat_g": 5.0,
+      "carb_g": 17.0,
+      "sodium_mg": 95.0,
+      "calcium_mg": 388.0
+    },
+    {
+      "name": "冰燕麦奶中杯",
+      "category": "饮品",
+      "energy_kcal": 199.0,
+      "protein_g": 4.0,
+      "fat_g": 8.0,
+      "carb_g": 26.0,
+      "sodium_mg": 145.0,
+      "calcium_mg": 438.0
+    },
+    {
+      "name": "冰燕麦奶大杯",
+      "category": "饮品",
+      "energy_kcal": 239.0,
+      "protein_g": 5.0,
+      "fat_g": 9.0,
+      "carb_g": 32.0,
+      "sodium_mg": 174.0,
+      "calcium_mg": 525.0
+    },
+    {
+      "name": "冰燕麦奶小杯",
+      "category": "饮品",
+      "energy_kcal": 131.0,
+      "protein_g": 3.0,
+      "fat_g": 5.0,
+      "carb_g": 17.0,
+      "sodium_mg": 95.0,
+      "calcium_mg": 288.0
+    },
+    {
+      "name": "热燕麦奶中杯",
+      "category": "饮品",
+      "energy_kcal": 157.0,
+      "protein_g": 3.0,
+      "fat_g": 6.0,
+      "carb_g": 21.0,
+      "sodium_mg": 114.0,
+      "calcium_mg": 344.0
+    },
+    {
+      "name": "热燕麦奶大杯",
+      "category": "饮品",
+      "energy_kcal": 213.0,
+      "protein_g": 4.0,
+      "fat_g": 8.0,
+      "carb_g": 28.0,
+      "sodium_mg": 156.0,
+      "calcium_mg": 469.0
+    },
+    {
+      "name": "热燕麦奶小杯",
+      "category": "饮品",
+      "energy_kcal": 131.0,
+      "protein_g": 3.0,
+      "fat_g": 5.0,
+      "carb_g": 17.0,
+      "sodium_mg": 95.0,
+      "calcium_mg": 288.0
+    },
+    {
+      "name": "冰浓浓抹茶牛奶中杯",
+      "category": "饮品",
+      "energy_kcal": 196.0,
+      "protein_g": 8.0,
+      "fat_g": 6.0,
+      "carb_g": 25.0,
+      "sodium_mg": 80.0,
+      "calcium_mg": 275.0
+    },
+    {
+      "name": "冰浓浓抹茶牛奶大杯",
+      "category": "饮品",
+      "energy_kcal": 240.0,
+      "protein_g": 9.0,
+      "fat_g": 7.0,
+      "carb_g": 33.0,
+      "sodium_mg": 89.0,
+      "calcium_mg": 314.0
+    },
+    {
+      "name": "热浓浓抹茶牛奶中杯",
+      "category": "饮品",
+      "energy_kcal": 238.0,
+      "protein_g": 11.0,
+      "fat_g": 8.0,
+      "carb_g": 29.0,
+      "sodium_mg": 104.0,
+      "calcium_mg": 351.0
+    },
+    {
+      "name": "热浓浓抹茶牛奶大杯",
+      "category": "饮品",
+      "energy_kcal": 333.0,
+      "protein_g": 14.0,
+      "fat_g": 12.0,
+      "carb_g": 41.0,
+      "sodium_mg": 142.0,
+      "calcium_mg": 482.0
+    },
+    {
+      "name": "冰浓浓黑巧中杯",
+      "category": "饮品",
+      "energy_kcal": 135.0,
+      "protein_g": 8.0,
+      "fat_g": 6.0,
+      "carb_g": 12.0,
+      "sodium_mg": 77.0,
+      "calcium_mg": 244.0
+    },
+    {
+      "name": "冰浓浓黑巧大杯",
+      "category": "饮品",
+      "energy_kcal": 147.0,
+      "protein_g": 8.0,
+      "fat_g": 7.0,
+      "carb_g": 13.0,
+      "sodium_mg": 84.0,
+      "calcium_mg": 267.0
+    },
+    {
+      "name": "热浓浓黑巧中杯",
+      "category": "饮品",
+      "energy_kcal": 176.0,
+      "protein_g": 10.0,
+      "fat_g": 8.0,
+      "carb_g": 15.0,
+      "sodium_mg": 101.0,
+      "calcium_mg": 319.0
+    },
+    {
+      "name": "热浓浓黑巧大杯",
+      "category": "饮品",
+      "energy_kcal": 240.0,
+      "protein_g": 13.0,
+      "fat_g": 11.0,
+      "carb_g": 21.0,
+      "sodium_mg": 137.0,
+      "calcium_mg": 435.0
+    },
+    {
+      "name": "川宁伯爵红茶",
+      "category": "饮品",
+      "energy_kcal": 2.0,
+      "protein_g": 0.0,
+      "fat_g": 0.0,
+      "carb_g": 0.0,
+      "sodium_mg": 0.0,
+      "calcium_mg": 0.0
+    },
+    {
+      "name": "抹茶阿芙佳朵",
+      "category": "甜点",
+      "energy_kcal": 147.0,
+      "protein_g": 3.0,
+      "fat_g": 4.0,
+      "carb_g": 23.0,
+      "sodium_mg": 50.0,
+      "calcium_mg": 136.0
+    },
+    {
+      "name": "咖啡阿芙佳朵",
+      "category": "甜点",
+      "energy_kcal": 139.0,
+      "protein_g": 4.0,
+      "fat_g": 4.0,
+      "carb_g": 21.0,
+      "sodium_mg": 49.0,
+      "calcium_mg": 111.0
+    },
+    {
+      "name": "热浓浓燕麦黑巧中杯",
+      "category": "饮品",
+      "energy_kcal": 157.0,
+      "protein_g": 3.0,
+      "fat_g": 6.0,
+      "carb_g": 21.0,
+      "sodium_mg": 114.0,
+      "calcium_mg": 344.0
+    },
+    {
+      "name": "热浓浓燕麦黑巧大杯",
+      "category": "饮品",
+      "energy_kcal": 213.0,
+      "protein_g": 4.0,
+      "fat_g": 8.0,
+      "carb_g": 28.0,
+      "sodium_mg": 156.0,
+      "calcium_mg": 469.0
+    },
+    {
+      "name": "草莓拉明顿",
+      "category": "甜点",
+      "energy_kcal": 121.0,
+      "protein_g": 2.0,
+      "fat_g": 8.0,
+      "carb_g": 11.0,
+      "sodium_mg": 34.0,
+      "calcium_mg": 17.0
+    },
+    {
+      "name": "原味板烧鸡腿炒双蛋堡",
+      "category": "早餐",
+      "energy_kcal": 419.0,
+      "protein_g": 27.0,
+      "fat_g": 21.0,
+      "carb_g": 30.0,
+      "sodium_mg": 715.0,
+      "calcium_mg": 116.0
+    },
+    {
+      "name": "双层猪柳蛋麦满分",
+      "category": "早餐",
+      "energy_kcal": 513.0,
+      "protein_g": 29.0,
+      "fat_g": 32.0,
+      "carb_g": 26.0,
+      "sodium_mg": 1210.0,
+      "calcium_mg": 249.0
+    },
+    {
+      "name": "双层火腿扒麦满分",
+      "category": "早餐",
+      "energy_kcal": 385.0,
+      "protein_g": 21.0,
+      "fat_g": 22.0,
+      "carb_g": 26.0,
+      "sodium_mg": 979.0,
+      "calcium_mg": 134.0
+    },
+    {
+      "name": "脆脆薯条",
+      "category": "小食",
+      "energy_kcal": 279.0,
+      "protein_g": 4.0,
+      "fat_g": 14.0,
+      "carb_g": 32.0,
+      "sodium_mg": 540.0,
+      "calcium_mg": 13.0
+    },
+    {
+      "name": "麦麦趣鸡球",
+      "category": "小食",
+      "energy_kcal": 266.0,
+      "protein_g": 17.0,
+      "fat_g": 13.0,
+      "carb_g": 19.0,
+      "sodium_mg": 789.0,
+      "calcium_mg": 13.0
+    },
+    {
+      "name": "酥酥多笋卷",
+      "category": "主食",
+      "energy_kcal": 342.0,
+      "protein_g": 14.0,
+      "fat_g": 15.0,
+      "carb_g": 36.0,
+      "sodium_mg": 1044.0,
+      "calcium_mg": 41.0
+    },
+    {
+      "name": "薄皮焦香V翅",
+      "category": "小食",
+      "energy_kcal": 192.0,
+      "protein_g": 17.0,
+      "fat_g": 11.0,
+      "carb_g": 6.0,
+      "sodium_mg": 594.0,
+      "calcium_mg": 15.0
+    },
+    {
+      "name": "蜜汁BBQ风味薄皮脆汁鸡-带骨里脊",
+      "category": "小食",
+      "energy_kcal": 152.0,
+      "protein_g": 20.0,
+      "fat_g": 5.0,
+      "carb_g": 6.0,
+      "sodium_mg": 635.0,
+      "calcium_mg": 28.0
+    },
+    {
+      "name": "蜜汁BBQ风味薄皮脆汁鸡-琵琶腿",
+      "category": "小食",
+      "energy_kcal": 173.0,
+      "protein_g": 18.0,
+      "fat_g": 9.0,
+      "carb_g": 5.0,
+      "sodium_mg": 547.0,
+      "calcium_mg": 15.0
+    },
+    {
+      "name": "果然多肉",
+      "category": "小食",
+      "energy_kcal": 478.0,
+      "protein_g": 36.0,
+      "fat_g": 17.0,
+      "carb_g": 44.0,
+      "sodium_mg": 1343.0,
+      "calcium_mg": 190.0
+    },
+    {
+      "name": "“苹板”支撑Pro",
+      "category": "小食",
+      "energy_kcal": 476.0,
+      "protein_g": 25.0,
+      "fat_g": 18.0,
+      "carb_g": 50.0,
+      "sodium_mg": 1077.0,
+      "calcium_mg": 117.0
+    },
+    {
+      "name": "专“薯鱼”你",
+      "category": "小食",
+      "energy_kcal": 463.0,
+      "protein_g": 18.0,
+      "fat_g": 17.0,
+      "carb_g": 57.0,
+      "sodium_mg": 652.0,
+      "calcium_mg": 123.0
+    },
+    {
+      "name": "绝代双翅",
+      "category": "小食",
+      "energy_kcal": 469.0,
+      "protein_g": 32.0,
+      "fat_g": 27.0,
+      "carb_g": 23.0,
+      "sodium_mg": 1167.0,
+      "calcium_mg": 34.0
+    },
+    {
+      "name": "牛气满满",
+      "category": "小食",
+      "energy_kcal": 495.0,
+      "protein_g": 26.0,
+      "fat_g": 24.0,
+      "carb_g": 42.0,
+      "sodium_mg": 764.0,
+      "calcium_mg": 79.0
+    },
+    {
+      "name": "蜜汁快乐",
+      "category": "小食",
+      "energy_kcal": 258.0,
+      "protein_g": 22.0,
+      "fat_g": 9.0,
+      "carb_g": 20.0,
+      "sodium_mg": 721.0,
+      "calcium_mg": 34.0
+    },
+    {
+      "name": "迷你朱古力新地",
+      "category": "甜点",
+      "energy_kcal": 140.0,
+      "protein_g": 3.0,
+      "fat_g": 4.0,
+      "carb_g": 22.0,
+      "sodium_mg": 63.0,
+      "calcium_mg": 90.0
+    },
+    {
+      "name": "迷你草莓新地",
+      "category": "甜点",
+      "energy_kcal": 122.0,
+      "protein_g": 2.0,
+      "fat_g": 3.0,
+      "carb_g": 21.0,
+      "sodium_mg": 42.0,
+      "calcium_mg": 78.0
+    },
+    {
+      "name": "鲜蔬蛋沙拉叠叠卷",
+      "category": "主食",
+      "energy_kcal": 266.0,
+      "protein_g": 11.0,
+      "fat_g": 14.0,
+      "carb_g": 24.0,
+      "sodium_mg": 518.0,
+      "calcium_mg": 62.0
+    },
+    {
+      "name": "鸡肉蛋沙拉叠叠卷",
+      "category": "主食",
+      "energy_kcal": 387.0,
+      "protein_g": 17.0,
+      "fat_g": 21.0,
+      "carb_g": 31.0,
+      "sodium_mg": 842.0,
+      "calcium_mg": 67.0
+    },
+    {
+      "name": "中杯怡泉+C",
+      "category": "饮品",
+      "energy_kcal": 110.0,
+      "protein_g": 0.0,
+      "fat_g": 0.0,
+      "carb_g": 27.0,
+      "sodium_mg": 0.0,
+      "calcium_mg": 0.0
+    },
+    {
+      "name": "大杯怡泉+C",
+      "category": "饮品",
+      "energy_kcal": 168.0,
+      "protein_g": 0.0,
+      "fat_g": 0.0,
+      "carb_g": 41.0,
+      "sodium_mg": 0.0,
+      "calcium_mg": 0.0
+    },
+    {
+      "name": "蒜了吧黄油风味薄皮脆汁鸡-琵琶腿",
+      "category": "小食",
+      "energy_kcal": 164.0,
+      "protein_g": 19.0,
+      "fat_g": 6.0,
+      "carb_g": 6.0,
+      "sodium_mg": 867.0,
+      "calcium_mg": 9.0
+    },
+    {
+      "name": "蒜了吧黄油风味薄皮脆汁鸡-带骨里脊",
+      "category": "小食",
+      "energy_kcal": 126.0,
+      "protein_g": 19.0,
+      "fat_g": 2.0,
+      "carb_g": 4.0,
+      "sodium_mg": 750.0,
+      "calcium_mg": 59.0
+    },
+    {
+      "name": "柠萌风味薄皮焦香V翅",
+      "category": "小食",
+      "energy_kcal": 204.0,
+      "protein_g": 18.0,
+      "fat_g": 11.0,
+      "carb_g": 6.0,
+      "sodium_mg": 768.0,
+      "calcium_mg": 22.0
+    }
+  ]
+}
